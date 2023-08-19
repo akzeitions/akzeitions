@@ -51,7 +51,6 @@
 <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
 <img src="https://img.shields.io/badge/cent%20os-002260?style=for-the-badge&logo=centos&logoColor=F0F0F0"/>
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 
 <h1 align="center"> 🌱 Techs that i'm currently learning</h1>
@@ -72,6 +71,6 @@
   </a>
 <div align="center">
 <a href="https://github.com/akzeitions">
-<img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akzeitions&langs_count=5&theme=date_night"/>
+<img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akzeitions&langs_count=5&theme=date_night&layout=donut"/>
 <img height="130em" src="https://github-readme-stats.vercel.app/api?username=akzeitions&show_icons=true&theme=date_night&include_all_commits=true&count_private=true&hide=stars,prs"/>
 </div>
